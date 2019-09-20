@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My ChattingApp</string>
+    <string name="already_have_an_account">already have an account</string>
+    <string name="enter_message">Enter Message</string>
+</resources>
